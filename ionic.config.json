@@ -1,0 +1,7 @@
+{
+  "name": "ro-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
